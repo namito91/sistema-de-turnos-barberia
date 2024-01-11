@@ -1,4 +1,6 @@
-permite al usuario acceder y reservar a un turno sin tener que registrars.
+Funcionamiento:
+
+Permite al usuario acceder y reservar un turno sin tener que registrarse.
 el panel de admin obtiene todos los turnos reservados ,en tanto ocurran.
 solo se guarda en la base de datos el turno reservado.
 
